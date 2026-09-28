@@ -1,2 +1,6 @@
-# scorpionxploit-webshield
-A defensive network and web endpoint inspector evaluating Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, TLS cipher suite strength, and certificate validity.
+# ScorpionXploit WebShield
+
+> **Deconstructing threats. Demystifying defense.**  
+> HTTP security header & TLS certificate inspection engine.
+
+Built with rigor by **Aditya Sharma (ScorpionXploit)** to audit and verify zero-trust web transport security.
